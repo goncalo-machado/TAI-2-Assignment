@@ -56,6 +56,6 @@ Example:
 
 Some files in our repository are very large, which lead to the need to use Git Large File System (GLSF) which means that if the quota is reached, some files may not be correctly downloaded when cloaning the repository.
 
-This repository was created without the original dataset file so it does not consume a lot of credit when cloning.
+This repository was created without the original dataset file so it does not consume a lot of credit when cloning. The original repository is available at https://github.com/TAI-2023-2024/TP2_HumanVsChatGPT
 
 If for some reason it is not possible to clone, we compressed the full repo which is downloadable from the following link : 
