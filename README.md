@@ -58,4 +58,4 @@ Some files in our repository are very large, which lead to the need to use Git L
 
 This repository was created without the original dataset file so it does not consume a lot of credit when cloning. The original repository is available at https://github.com/TAI-2023-2024/TP2_HumanVsChatGPT
 
-If for some reason it is not possible to clone, we compressed the full repo which is downloadable from the following link : 
+If for some reason it is not possible to clone, we compressed the full repo which is downloadable from the following link : https://drive.google.com/file/d/1eQikfBlcP07T84sCU43gkWv4l9A1XcAO/view?usp=sharing
